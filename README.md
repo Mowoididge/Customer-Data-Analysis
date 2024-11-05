@@ -128,7 +128,14 @@ Total Revenue = Sum(CustomerData[Revenue])
 ## Conclusion and Recommendations
 - Focus Marketing Campaign on Underperforming Regions
 - Reward the top 5 Customers
-- Focus on sales of the Basic Subscription
+- Focus on sales of the Basic Subscriptions
+
+## Related Projects
+
+For more context, see the related project [Project 2](https://github.com/Mowoididge/CAPSTONE_PROJECT/blob/main/README.md
+).
+
+ 
 
 
 
