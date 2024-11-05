@@ -3,25 +3,26 @@
 ## Project Overview
 This project involves analyzing customer data for a subscription service to identify
 segments and trends. The goal is to understand customer behavior, track subscription types,
-and identify key trends in cancellations and renewals. 
+and identify key trends in cancellations and renewals.
+## Project Outline
 
-## [Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-## [Data Sources](data-sources)
+[Data Sources](#data-sources)
 
-## [Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-## [Data Cleaning and Preparation](data-cleaning-and preparation)
+[Data Cleaning and Preparation](#data-cleaning-and preparation)
 
-## [Exploratory Data Analysis](exploratory-data-analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-## [Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
-## [Data Visualization](datavisualization)
+[Data Visualization](#datavisualization)
 
-## [Insights and Key Findings](insights-key-findings) 
+[Insights and Key Findings](#insights-key-findings) 
 
-## [Conclusion and Recommendations](conclusion-and-recommendations)
+[Conclusion and Recommendations](#conclusion-and-recommendations)
 
 
 ## Data Sources
