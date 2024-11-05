@@ -24,7 +24,7 @@ and identify key trends in cancellations and renewals.
 
 [Conclusion and Recommendations](#conclusion-and-recommendations)
 
- [Projects 1 Sales Analysis](#project-1-sales-analysis)
+ [Projects 1 Sales Analysis](#projects-1-sales-analysis)
 
 
 ## Data Sources
