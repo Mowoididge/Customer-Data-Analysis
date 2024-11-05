@@ -110,7 +110,10 @@ Total Revenue = Sum(CustomerData[Revenue])
 ```
 ## Data Visualization
 
+![Customer Data Pivot Table](https://github.com/user-attachments/assets/3af35e2d-154f-4532-ac4a-d6ae45566068)
 
+
+![Screenshot 2024-11-05 150838](https://github.com/user-attachments/assets/54bc6407-4c82-4622-99fa-b60d34abd176)
 
 ## Insights and Key Findings         
 1.	The most Popular subscription type is  Basic with a total sales value by percentage, followed by Premium and then Standard by a percentage total sales value of 49.90%, 25.08% and 25.02% respectively
