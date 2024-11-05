@@ -7,19 +7,21 @@ and identify key trends in cancellations and renewals.
 
 ### [Project Overview](project-overview)
 
-### [Tools Used](tools-used)
+## [Data Sources](data-sources)
 
-### [Data Cleaning and Preparation](data-cleaning-and-preparation)
+## [Tools Used](tools-used)
 
-### [Exploratory Data Analysis](exploratory-data-analysis)
+## [Data Cleaning and Preparation](data-cleaning-and preparation)
 
-### [Data Analysis](data-analysis)
+## [Exploratory Data Analysis](exploratory-data-analysis)
 
-### [Data Visualization](data-analysis)
+## [Data Analysis](data-analysis)
 
-### [Insights and Key Findings](insights-and-key-findings)
+## [Data Visualization](datavisualization)
 
-## [Conclusion and Recommendations](conclusions-and-recommendations)
+## [Insights and Key Findings](insights-key-findings) 
+
+## [Conclusion and Recommendations](conclusion-and-recommendations)
 
 
 ## Data Sources
