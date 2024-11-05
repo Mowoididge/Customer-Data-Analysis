@@ -5,7 +5,7 @@ This project involves analyzing customer data for a subscription service to iden
 segments and trends. The goal is to understand customer behavior, track subscription types,
 and identify key trends in cancellations and renewals. 
 
-### [Project Overview](project-overview)
+## [Project Overview](project-overview)
 
 ## [Data Sources](data-sources)
 
