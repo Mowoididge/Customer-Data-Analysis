@@ -24,6 +24,8 @@ and identify key trends in cancellations and renewals.
 
 [Conclusion and Recommendations](#conclusion-and-recommendations)
 
+ [Projects 1 Sales Analysis](#project-1-sales-analysis)
+
 
 ## Data Sources
 The primary source of data is https://canvas.instructure.com/files/273182802/download?download_frd=1 which supplied by the Incubator Hub Fascilitators
@@ -130,9 +132,9 @@ Total Revenue = Sum(CustomerData[Revenue])
 - Reward the top 5 Customers
 - Focus on sales of the Basic Subscriptions
 
-## Related Projects
+## Projects 1 Sales Analysis
 
-For more context, see the related project [Project 2](https://github.com/Mowoididge/CAPSTONE_PROJECT/blob/main/README.md
+this is the link to the First project on sales analysis of the sales dataset [Project 1](https://github.com/Mowoididge/CAPSTONE_PROJECT/blob/main/README.md
 ).
 
  
